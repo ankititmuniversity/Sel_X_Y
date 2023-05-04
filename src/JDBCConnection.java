@@ -19,7 +19,7 @@ public class JDBCConnection {
 			System.out.println(res.getString("SEX"));
 			
 		}
-		System.out.println("SUCCESSFULLY DB CONNECTION Established1234");
+		System.out.println("SUCCESSFULLY DB CONNECTION Established by TesterX");
 	}
 
 }
